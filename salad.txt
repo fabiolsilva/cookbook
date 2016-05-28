@@ -1,6 +1,7 @@
 INGREDIENTS:
 
   salad
+  tomato
   dressing
 
 STEPS:
