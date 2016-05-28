@@ -2,6 +2,7 @@ INGREDIENTS:
 
   salad
   tomato
+  spices
   dressing
 
 STEPS:
