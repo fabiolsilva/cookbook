@@ -1,9 +1,11 @@
 INGREDIENTS:
 
   salad
+  dressing
 
 STEPS:
 
   wash
   cut
+  mix
   eat :)
