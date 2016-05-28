@@ -1,4 +1,4 @@
-Using the Command Line
+Quick Guide: Using the Command Line
 
 Git is best used on the command line. There are many different
 graphical interfaces for Git, but they generally oversimplify Git and
