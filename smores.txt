@@ -1,0 +1,20 @@
+Using the Command Line
+
+Git is best used on the command line. There are many different
+graphical interfaces for Git, but they generally oversimplify Git and
+make it more difficult to understand what is actually going on. The
+best way to develop a deep understanding of how Git works is to use it
+on the command line. As a result, this tutorial will not use any Git
+GUIs, but solely use Git on the command line.
+
+Before attending this tutorial, you should understand the basics of
+how to use the command line on your operating system. Here is a basic
+tutorial, if you are not already familiar with the command line. The
+instructor will be using the command line on OS X to run examples, but
+the examples should also run on the Windows command line with minimal
+changes.
+
+You will have the best experience if you use the zsh shell with the
+oh-my-zsh framework installed, since it has Git integration
+built-in. However, you can use whatever shell you choose, including
+the default bash shell.
