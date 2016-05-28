@@ -1,5 +1,6 @@
 INGREDIENTS:
 
+  bowl
   salad
   tomato
   spices
